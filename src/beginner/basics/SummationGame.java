@@ -1,18 +1,17 @@
-package beginner;
+package beginner.basics;
 
 import java.util.Scanner;
 
-public class SumOfOdds {
-
+public class SummationGame {
     static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.println("Enter the end-digit: ");
+        System.out.println("Enter the end-digit : ");
         int n = sc.nextInt();
+
         int sum = 0;
-        for (int i = 1; i <= n; i++) {
-            sum += (i % 2 != 0) ? i : 0;
+        for (int i = 0; i <= n; i++) {
+            sum += i;
         }
         System.out.println(sum);
     }
-
 }
