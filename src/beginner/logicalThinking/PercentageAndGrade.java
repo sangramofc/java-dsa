@@ -1,4 +1,4 @@
-package beginner.basics;
+package beginner.logicalThinking;
 //Write a program to calculate the percentage (according to marks of a student) and grade (according to the percentage of a student). Five numbers(A, B, C, D & E) represent the marks of a student in 5 subjects which are out of 100. Print the percentage and the grade of the student.
 //
 //If percentage >= 90% : Grade A
