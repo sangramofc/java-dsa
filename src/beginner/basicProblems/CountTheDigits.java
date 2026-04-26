@@ -1,4 +1,4 @@
-package beginner.javaBasics;
+package beginner.basicProblems;
 //Problem Description
 //Take T (number of test cases) as input.
 //For each test case, take integer N as input and Print the count of digits of that number.
