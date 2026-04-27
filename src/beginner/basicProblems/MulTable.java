@@ -6,8 +6,9 @@ public class MulTable {
 
     static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+        int x;
         System.out.println("Enter the number : ");
-        int x = sc.nextInt();
+        x = sc.nextInt();
 
         System.out.println("10 multiples of " + x + " are : ");
         for (int i = 1; i <= 10; i++) {
