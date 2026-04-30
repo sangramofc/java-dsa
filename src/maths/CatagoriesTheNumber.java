@@ -1,4 +1,4 @@
-package beginner.logicalThinking;
+package basics.beginner;
 //Write a program to input a number(A) from user
 // and print 1 if it is positive, -1 if it is negative, 0 if it's neither positive nor negative.
 import java.util.Scanner;

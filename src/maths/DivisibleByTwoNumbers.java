@@ -1,4 +1,4 @@
-package beginner.logicalThinking;
+package basics.beginner;
 
 import java.util.Scanner;
 
