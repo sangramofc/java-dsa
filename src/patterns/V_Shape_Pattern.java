@@ -1,4 +1,4 @@
-package beginner.patternProblems;
+package patterns;
 
 import java.util.Scanner;
 

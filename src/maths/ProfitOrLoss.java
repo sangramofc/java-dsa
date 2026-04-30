@@ -1,4 +1,4 @@
-package basics.beginner;
+package maths;
 
 // You are given the Cost Price C and Selling Price S of a Product. You have to tell whether there is a Profit or Loss. Also, calculate total profit or loss.
 //

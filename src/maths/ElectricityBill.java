@@ -1,4 +1,4 @@
-package basics.beginner;
+package maths;
 
 //Given an integer A denoting the amount of units of electricity consumed, you have to calculate the electricity bill (in Rs.) with the help of the below charge conditions:
 //
