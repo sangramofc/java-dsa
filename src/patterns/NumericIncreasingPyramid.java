@@ -2,7 +2,7 @@ package patterns;
 
 import java.util.Scanner;
 
-public class IncreasingPyramid {
+public class NumericIncreasingPyramid {
     static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int r = sc.nextInt();
