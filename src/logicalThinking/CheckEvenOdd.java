@@ -1,4 +1,4 @@
-package maths;
+package logicalThinking;
 
 import java.util.Scanner;
 
