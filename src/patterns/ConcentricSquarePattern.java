@@ -8,7 +8,6 @@ package patterns;
 //      size - j - 1 -- right
 //  )
 //  cellValue = (n - distance)
-
 import java.util.Scanner;
 
 public class ConcentricSquarePattern {
